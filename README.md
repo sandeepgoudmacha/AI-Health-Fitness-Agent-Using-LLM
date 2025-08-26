@@ -30,24 +30,6 @@ The application requires the following Python libraries:
 
 Ensure these dependencies are installed via the `requirements.txt` file according to their mentioned versions
 
-## How to Run
 
-Follow the steps below to set up and run the application:
-Before anything else, Please get a free Gemini API Key provided by Google AI here: https://aistudio.google.com/apikey
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
-   cd advanced_ai_agents/single_agent_apps/ai_health_fitness_agent
-   ```
-
-2. **Install the dependencies**
-    ```bash
-    pip install -r requirements.txt
-    ```
-3. **Run the Streamlit app**
-    ```bash
-    streamlit run health_agent.py
-    ```
 
 
